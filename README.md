@@ -1,8 +1,8 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm June E. Paculanang</h1>
+<h1 align="center">Hi 👋, I'm <b>June Paculanang.</b></h1>
 <h3 align="center">Computer Science Student | NORSU Bayawan</h3>
 
-<!-- TYPEWRITER EFFECT -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;UI+Design+Enthusiast;Always+Learning+New+Technologies&center=true&width=500&height=45">
 </p>
@@ -31,14 +31,6 @@ Computer Science student with a strong foundation in software development and we
 - UI Design & Interface Structuring  
 - Problem Solving & Algorithmic Thinking  
 - Code Optimization & Debugging  
-
----
-
-## 📈 Development Focus
-- Scalable Web Application Development  
-- Backend Development (Django & PHP)  
-- UI/UX Design Improvement  
-- Clean Code & Best Practices  
 
 ---
 
