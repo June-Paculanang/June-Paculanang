@@ -46,7 +46,6 @@ Computer Science student with a strong foundation in software development and we
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=June-Paculanang&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?userJune-Paculanang&theme=tokyonight" />
+<p align="center"> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=June-Paculanang\&theme=tokyonight\&hide\_border=true" height="265" width="600">
 </p>
